@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<title>CSE-31-D-c2 Class Routine</title>
+
+
+
+<style>
+table.GeneratedTable {
+  width: 100%;
+  background-color: #ffffff;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: #ffcc00;
+  border-style: solid;
+  color: #000000;
+}
+
+table.GeneratedTable td, table.GeneratedTable th {
+  border-width: 2px;
+  border-color: #ffcc00;
+  border-style: solid;
+  padding: 3px;
+}
+
+table.GeneratedTable thead {
+  background-color: #ffcc00;
+}
+</style>
+
+
+
+ </head>
+ <body>
+ 
+ 
+<h1 style="text-align: center;"> PORT CiTY INTERNATiONAL UNiVERSiTY</h1>
+<h3 style="text-align: center;">CSE-31-D-c2 Class Routine</h3>
+<table class="GeneratedTable">
+  <thead>
+    <tr>
+      <th>Day/Hour</th>
+      <th>9-10</th>
+      <th>10-11</th>
+      <th>11-12</th>
+      <th>12-13</th>
+      <th>14-15</th>
+      <th>15-16</th>
+      <th>16-17</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Saturday</td>
+      <td></td>
+      <td></td>
+     <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>EEE<br>Room-A113</td>
+    </tr>
+    <tr>
+      <td>Sunday</td>
+      <td>PHYSICs Lab <br> Room-220L</td>
+      <td>ENGLISH<br> Room-A118</td>
+      <td></td>
+     <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Monday</td>
+     <td></td>
+      <td></td>
+      <td>HISTORY<br>Room-A113</td>
+      <td></td>
+      <td>ENGLISH <br> Room-A206</td>
+      <td>CSE LAB</td>
+      <td>Room D lab</td>
+      
+    </tr>
+    <tr>
+      <td>Tuesday</td>
+      <td>CSE <br> Room-A218</td>
+       <td>EEE LAB</td>
+      <td>Room-105L</td>
+      <td>PHYSiCS <br> Room-A222</td>
+     <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Wednesday</td>
+      <td>CSE <br> Room-A113</td>
+      <td>EEE <br> Room-A222</td>
+      <td>HISTORY <br>Room-105L</td>
+     <td></td>
+	 <td>PHYSiCS <br> Room-A222</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Thursday</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>PHYSICS LAB<br>Room-220L</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+  <div style="text-align: center;"> Designed by <a href="rfnhsc.com/salman.html">Sayed Mahbub Salman</a>
+    </div>
+
+
+
+
+</body>
+</html>
